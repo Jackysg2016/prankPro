@@ -1,0 +1,27 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, '8.0'
+# Uncomment this line if you're using Swift
+# use_frameworks!
+
+xcodeproj 'prankPro.xcodeproj'
+
+target 'prankPro' do
+pod 'Parse', '~> 1.11.0'
+pod 'ParseUI', '~> 1.1.7'
+pod 'ParseFacebookUtilsV4', '~> 1.11.0'
+pod 'ParseTwitterUtils', '~> 1.10.0'
+pod 'FBSDKShareKit', '~> 4.9.1'
+pod 'Qiniu', '~> 7.0.16'
+pod 'AFNetworking', '~> 2.6.3'
+pod 'MJRefresh', '~> 3.0.4'
+pod 'SDWebImage', '~> 3.7.3'
+pod 'MBProgressHUD', '~> 0.9.1'
+pod 'Masonry', '~> 0.6.3'
+pod 'SCRecorder', '~> 2.6.1'
+pod 'JazzHands', '~> 2.0.8'
+pod 'MYBlurIntroductionView', '~> 1.0.3'
+pod 'ActionSheetPicker-3.0', '~> 2.0.4'
+pod 'BlocksKit', '~> 2.2.5'
+pod 'Google-Mobile-Ads-SDK', '~> 7.6.0'
+end
+
