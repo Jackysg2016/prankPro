@@ -80,7 +80,7 @@
     SCVideoConfiguration *videoConf = _recorder.videoConfiguration;
     videoConf.size = CGSizeMake(640, 640);
     videoConf.scalingMode = AVVideoScalingModeResizeAspectFill;
-    _recorder.videoConfiguration=videoConf;
+    _recorder.videoConfiguration=videoConf;//请把videoConfiguration的readonly属性删掉
     
     //预览
     UIView *previewView = self.preview;
@@ -299,7 +299,7 @@
             
             if (error == nil) {
                 SCRecordSessionSegment* item=  [_recorder.session.segments firstObject];
-                UIImage* img=item.randomThumbnail;
+                UIImage* img=item.thumbnail;
                 //转到预览界面
                 HJMHPreviewVC* previewVC=[[HJMHPreviewVC alloc]init];
                 previewVC.fileURL=_recorder.session.outputUrl;
