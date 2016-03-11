@@ -44,11 +44,11 @@
 
 - (void)setProgressToWidth:(CGFloat)width
 {
-    [self.progressView updateConstraints:^(MASConstraintMaker *make) { 
-        make.width.equalTo(self.width).multipliedBy(width);
-    }];
+    CGRect rect=self.progressView.bounds;
+    rect.size.width=self.frame.size.width*width;
+    self.progressView.bounds=rect;
 }
- 
+
 #pragma lazy load
 -(UIView*) barView{
     if(_barView==nil){
