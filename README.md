@@ -48,6 +48,8 @@ Parse will stop their service soon,If you interested in the project,after the ap
 ## Extra
 
 If you are from china,欢迎加入qq技术交流群`533838427`
+自己做了个微信公众号，还请大家关注。谢谢
+![](http://7xi4vz.com1.z0.glb.clouddn.com/qrcode.jpg)
 
 ## Thanks to
 
