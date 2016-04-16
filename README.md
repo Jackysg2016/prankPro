@@ -47,30 +47,30 @@ Parse will stop their service soon,If you interested in the project,after the ap
 
 ## Extra
 
-If you are from china,欢迎加入qq技术交流群`533838427`
-自己做了个微信公众号，『懒文』->lanwenapp<-，还望大家关注。谢谢
+If you are from china,欢迎加入qq技术交流群`533838427`  
+自己做了个微信公众号，『懒文』->lanwenapp<-，还望大家关注。谢谢  
 ![](http://7xi4vz.com1.z0.glb.clouddn.com/qrcode.jpg)
 
 ## Thanks to
 
-I use the libaries or views blew,thanks to the authors.you are my reason to open my project.
-`'Parse'
-'ParseUI'
-'ParseFacebookUtilsV4'
-'ParseTwitterUtils‘
-'FBSDKShareKit'
-'Qiniu'
-'AFNetworking'
-'MJRefresh'
-'SDWebImage'
-'MBProgressHUD'
-'Masonry'
-'SCRecorder'
-'JazzHands'
-'MYBlurIntroductionView'
-'ActionSheetPicker-3.0'
-'BlocksKit'
-'Google-Mobile-Ads-SDK'`
+I use the libaries or views blew,thanks to the authors.you are my reason to open my project.  
+`'Parse'  
+'ParseUI'  
+'ParseFacebookUtilsV4'  
+'ParseTwitterUtils‘  
+'FBSDKShareKit'  
+'Qiniu'  
+'AFNetworking'  
+'MJRefresh'  
+'SDWebImage'  
+'MBProgressHUD'  
+'Masonry'  
+'SCRecorder'  
+'JazzHands'  
+'MYBlurIntroductionView'  
+'ActionSheetPicker-3.0'  
+'BlocksKit'  
+'Google-Mobile-Ads-SDK'  `
 ## License
 
 prankPro is available under the MIT license.
