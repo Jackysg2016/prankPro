@@ -7,11 +7,9 @@ A fully functional short video app project
 
 ## How to Install
 
-1. use coconapod to init your xcode environment.
-
-2. change the app-keys in `application.h` to yours.Maybe you can still get information from Parse.com
-
-3. enjoy.
+    1. use coconapod to init your xcode environment.
+    2. change the app-keys in `application.h` to yours.Maybe you can still get information from Parse.com
+    3. enjoy.
 
 ## Intro
 
@@ -21,21 +19,14 @@ the idea is simple.Do you Remember the Vine hot hashtag "shaver"?People use fake
 
 ## What you can learn from the project
 
-1.general functions like list,grid.
-
-2.how to set the cell's height.
-
-3.how to control your layout by Masonry.
-
-4.how torecord video by SCRecorder.
-
-5.how to display video by AvFoundation.
-
-6.how to connect to parse(that wont work...).
-
-7.how to write a custom view(a scrollbar,a preview view).
-
-...
+    1.general functions like list,grid.
+    2.how to set the cell's height.
+    3.how to control your layout by Masonry.
+    4.how torecord video by SCRecorder.
+    5.how to display video by AvFoundation.
+    6.how to connect to parse(that wont work...).
+    7.how to write a custom view(a scrollbar,a preview view)
+    ...
 
 ## free template psd file
 
@@ -54,23 +45,25 @@ If you are from china,欢迎加入qq技术交流群`533838427`
 ## Thanks to
 
 I use the libaries or views blew,thanks to the authors.you are my reason to open my project.  
-`'Parse'  
-'ParseUI'  
-'ParseFacebookUtilsV4'  
-'ParseTwitterUtils‘  
-'FBSDKShareKit'  
-'Qiniu'  
-'AFNetworking'  
-'MJRefresh'  
-'SDWebImage'  
-'MBProgressHUD'  
-'Masonry'  
-'SCRecorder'  
-'JazzHands'  
-'MYBlurIntroductionView'  
-'ActionSheetPicker-3.0'  
-'BlocksKit'  
-'Google-Mobile-Ads-SDK'  `
+    ````
+    'Parse'  
+    'ParseUI'  
+    'ParseFacebookUtilsV4'  
+    'ParseTwitterUtils‘  
+    'FBSDKShareKit'  
+    'Qiniu'  
+    'AFNetworking'  
+    'MJRefresh'  
+    'SDWebImage'  
+    'MBProgressHUD'  
+    'Masonry'  
+    'SCRecorder'  
+    'JazzHands'  
+    'MYBlurIntroductionView'  
+    'ActionSheetPicker-3.0'  
+    'BlocksKit'  
+    'Google-Mobile-Ads-SDK'
+    ````
 ## License
 
 prankPro is available under the MIT license.
