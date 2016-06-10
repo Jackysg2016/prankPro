@@ -45,43 +45,24 @@ If you are from china,欢迎加入qq技术交流群`533838427`
 ## Thanks to
 
 I use the libaries or views blew,thanks to the authors.you are my reason to open my project.  
-    ````
-    
+
     'Parse'  
-    
     'ParseUI'  
-    
     'ParseFacebookUtilsV4'  
-    
     'ParseTwitterUtils‘  
-    
     'FBSDKShareKit'  
-    
     'Qiniu'  
-    
     'AFNetworking'  
-    
     'MJRefresh'  
-    
     'SDWebImage'  
-    
     'MBProgressHUD'  
-    
     'Masonry'  
-    
     'SCRecorder'  
-    
     'JazzHands'  
-    
     'MYBlurIntroductionView'  
-    
     'ActionSheetPicker-3.0'  
-    
     'BlocksKit'  
-    
     'Google-Mobile-Ads-SDK'
-    
-    ````
 ## License
 
 prankPro is available under the MIT license.
